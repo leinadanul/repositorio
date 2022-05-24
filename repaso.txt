@@ -1,0 +1,5 @@
+git commmit -m
+git log --oneline
+git merge
+git add
+git init
